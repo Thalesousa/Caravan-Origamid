@@ -11,3 +11,20 @@ body {
 .icone-tamanho {
     height: 100px;
 }
+
+#home-quote {
+    background: url('../img/bg-quote.jpg');
+    background-size: cover;
+}
+
+@media (max-width: 767px) {
+    #home-quote .display-4{
+        font-size: 2.5rem;
+    }
+    body {
+        padding-top: 0px;
+    }
+    .fixed-top {
+        position: relative;
+    }
+}
