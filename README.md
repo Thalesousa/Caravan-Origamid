@@ -1,6 +1,6 @@
 ## CARAVAN
 
-![thumbnail](.github/thumbnail.png)
+![preview](.github/preview.png)
 
 ## Página completa
 
